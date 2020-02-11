@@ -11,26 +11,26 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Michele and Stuart Schmidt
   title:
-  license_number:
+  license_number: License# 613267
   about_markdown: |
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+  brand: Schmidt Home Consultants
+  brokerage: Keller Williams - Flagship of Maryland
+  market: Maryland
+  address: 231 Najoles Rd Ste 100, Millersville, MD 21108
+  phone: 443-795-3136
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Michele@StuSells.com
+  url: SchmidtHomeConsultants.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://schmidthomeconsultants.kw.com/search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -44,7 +44,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://schmidthomeconsultants.kw.com/search
 
 lender:
   show_section: false
@@ -61,11 +61,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
-  instagram_url:
+  facebook_url: https://www.facebook.com/SchmidtHomeConsultants
+  linkedin_url: https://www.linkedin.com/in/stuart-schmidt-mba-a92185?trk=nav_responsive_tab_profile
+  youtube_url: https://www.youtube.com/channel/UC36Cz86liTzaBMrNKFBODcw
+  twitter_url: https://twitter.com/SchmidtHomeCo
+  instagram_url: https://www.instagram.com/schmidthomeconsultants/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -93,8 +93,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999999'
+  brand_color: '#B22222'
+  theme_color: '#252E39'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
