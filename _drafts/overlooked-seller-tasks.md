@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/tasks-yt-1.jpg
 youtube_code: ZHfgA9JYyig
 ---
 
-{% include youtube.html %}I’m sharing four important seller tasks not to overlook when preparing your home for the market.&nbsp;
+{% include youtube.html %}<center>I’m sharing four important seller tasks not to overlook when preparing your home for the market.&nbsp;</center>
 
 In the shuffle of everything you need to do when selling your house, some things can be forgotten. Today I’m discussing what tasks are most overlooked by sellers when they’re preparing to list their home:
 
